@@ -24,24 +24,34 @@
 			}
 		</style>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-		<script>
-			var items_json;
-			$.getJSON("apc_items.json", function(data) {
-			  var items_json = data;
-			  console.log(items_json);
-			});
+		<script src="mustache.js"></script>
+		
+		<script id="item_template" type="text/template" >
+			{{#items}}
+				<div class="gallery">		  
+					<img src="images/{{image}}" alt="{{name}}" >
+				  <div class="desc">{{name}}</div>
+				</div>
+			{{/items}}
 		</script>
+		
 	</head>
 	<body>
-
-	<div class="gallery">
-	  <a target="_blank" href="images/avery_binder.jpg">
-		<img src="images/avery_binder.jpg" alt="Trolltunga Norway" >
-	  </a>
-	  <div class="desc">Add a description of the image here</div>
-	</div>
+		<div id="gallery_anchor" style="align: center"></div>
+	
 
 
 
 	</body>
+	<script>
+		var items_json;
+		$.getJSON("https://chainbreak.github.io/apc_items.json", function(data) {
+		  items_json = data;
+		  var template = $('#item_template').html();
+		  var gallery = Mustache.to_html(template,items_json);
+		  $('#gallery_anchor').html(gallery);
+		  
+		  console.log(items_json);
+		});
+	</script>
 </html>
