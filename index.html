@@ -23,7 +23,13 @@
 				text-align: center;
 			}
 		</style>
-
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+		<script>
+			var items_json;
+			$.getJSON(my_url, function(data) {
+			  var items_json = data;
+			});
+		</script>
 	</head>
 	<body>
 
