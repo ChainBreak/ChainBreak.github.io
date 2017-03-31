@@ -22,6 +22,12 @@
 				padding: 5px;
 				text-align: center;
 				font-size: 14px;
+				font-family: Arial;
+			}
+			
+			#info{
+				font-size: 20px;
+				font-family: Arial;
 			}
 		</style>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
@@ -30,10 +36,24 @@
 		<script>
 			var copyNameToClipboard = function(name)
 			{
-				var input = document.createElement("INPUT");
-				input.value = name
-				var succseful = document.execCommand("copy");
-				console.log(succseful);
+				
+				var ta = document.getElementById('copyText');
+				ta.innerHTML = name;
+				ta.focus();
+				ta.select();
+				var msg ="Error: could NOT copy " + name + " to your clipboard";
+				try
+				{
+					var successful = document.execCommand("copy");
+					if (successful)
+					{
+						msg = name + " was coppied to your clipboard";
+					}
+				}
+				catch(e){}
+				
+				document.getElementById('info').innerHTML = msg;
+				console.log(msg);
 			}
 		</script>
 		
@@ -47,13 +67,13 @@
 		</script>
 		
 	</head>
-	<body style="text-align: center">
-		<div id="gallery_anchor" ></div>
 	
-
-
-
+	<body style="text-align: center">
+		<span id="info">Click on an item to copy it's name to your clipboard</span>
+		<div id="gallery_anchor" ></div>
+		<textarea id="copyText"></textarea>
 	</body>
+	
 	<script>
 		var items_json;
 		$.getJSON("https://chainbreak.github.io/apc_items.json", function(data) {
