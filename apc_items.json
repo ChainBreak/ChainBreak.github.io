@@ -122,6 +122,23 @@
         }, 
         {
             "name": "tote"
-        }
+        },
+        {"name": "plush_monkey"},
+		{"name": "harry_potter_dvd"},
+		{"name": "cool_shot_glue_sticks"},
+		{"name": "squeaky_balls"},
+		{"name": "spoon_and_fork"},
+		{"name": "command_hooks"},
+		{"name": "coles_water_bottle"},
+		{"name": "utility_brush"},
+		{"name": "dove_soap"},
+		{"name": "oral_b_toothbrush"},
+		{"name": "pets_bowl"},
+		{"name": "bunny_book"},
+		{"name": "paper_towels"},
+		{"name": "shower_curtain"},
+		{"name": "acrv_t_shirt"},
+		{"name": "fiskars_scissors_red"}
+
     ]
 }
