@@ -4,37 +4,17 @@
 [LinkedIn](TODO)
 
 ## Projects
-[![Image](https://img.youtube.com/vi/9dWrHqQp2VY/0.jpg)](https://www.youtube.com/watch?v=9dWrHqQp2VY)
+A list of my interesting projects
+
+### GovHack2019
+[![](https://img.youtube.com/vi/9dWrHqQp2VY/0.jpg)](https://www.youtube.com/watch?v=9dWrHqQp2VY)
+This was one of our prize winning entries in GovHack2019.
 
 
-### Markdown
+### GovHack2019
+[![](https://img.youtube.com/vi/9dWrHqQp2VY/0.jpg)](https://www.youtube.com/watch?v=9dWrHqQp2VY)
+This was one of our prize winning entries in GovHack2019. 
+We used a feature vector from deep neural network to find what South Australian colonist you looked most similar to.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChainBreak/ChainBreak.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Robot Toy Sorting Demo
+[![](https://img.youtube.com/vi/6o9qGittnbY/1.jpg)](https://www.youtube.com/watch?v=6o9qGittnbY)
