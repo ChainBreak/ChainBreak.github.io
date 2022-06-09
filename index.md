@@ -1,11 +1,10 @@
 # Thomas Rowntree
-
-## Links
+[GitHub](https://github.com/ChainBreak)
 [YouTube](https://www.youtube.com/user/thomasjamesrowntree/videos)
 [LinkedIn](TODO)
 
 ## Projects
-![Image](https://img.youtube.com/vi/9dWrHqQp2VY/0.jpg)
+[![Image](https://img.youtube.com/vi/9dWrHqQp2VY/0.jpg)](https://www.youtube.com/watch?v=9dWrHqQp2VY)
 
 
 ### Markdown
