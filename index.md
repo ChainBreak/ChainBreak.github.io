@@ -5,7 +5,7 @@
 [LinkedIn](TODO)
 
 ## Projects
-![](https://img.youtube.com/vi/<9dWrHqQp2VY>/0.jpg)
+![Image](https://img.youtube.com/vi/9dWrHqQp2VY/0.jpg)
 
 
 ### Markdown
