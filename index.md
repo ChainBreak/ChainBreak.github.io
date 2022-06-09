@@ -9,11 +9,6 @@ A list of my interesting projects
 ### GovHack2019
 [![](https://img.youtube.com/vi/9dWrHqQp2VY/0.jpg)](https://www.youtube.com/watch?v=9dWrHqQp2VY)
 This was one of our prize winning entries in GovHack2019.
-
-
-### GovHack2019
-[![](https://img.youtube.com/vi/9dWrHqQp2VY/0.jpg)](https://www.youtube.com/watch?v=9dWrHqQp2VY)
-This was one of our prize winning entries in GovHack2019. 
 We used a feature vector from deep neural network to find what South Australian colonist you looked most similar to.
 
 ### Robot Toy Sorting Demo
