@@ -1,8 +1,8 @@
 # Thomas Rowntree
 [GitHub](https://github.com/ChainBreak)
-
+ | 
 [YouTube](https://www.youtube.com/user/thomasjamesrowntree/videos)
-
+ | 
 [LinkedIn](https://www.linkedin.com/in/thomas-rowntree-74350156/)
 
 ## Projects
