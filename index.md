@@ -4,6 +4,8 @@
 [YouTube](https://www.youtube.com/user/thomasjamesrowntree/videos)
  | 
 [LinkedIn](https://www.linkedin.com/in/thomas-rowntree-74350156/)
+ | 
+[Scholar](https://scholar.google.com.au/citations?hl=en&user=XZR6-qAAAAAJ)
 
 ## Projects
 
@@ -35,4 +37,8 @@
 
 [![](https://img.youtube.com/vi/3vYtedQTVbw/hqdefault.jpg)](https://www.youtube.com/watch?v=3vYtedQTVbw)
 
-### 
+### Real-Time Human Gaze Estimation
+#### Papers
+- [Real-Time Human Gaze Estimation](https://ieeexplore.ieee.org/document/8945919)
+
+[![](https://img.youtube.com/vi/wt8Kz4UiRoA/hqdefault.jpg)](https://www.youtube.com/watch?v=wt8Kz4UiRoA)
