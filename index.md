@@ -23,6 +23,11 @@ Australian Institute for Machine Learning
 ### Robot Toy Sorting Demo
 [![](https://img.youtube.com/vi/6o9qGittnbY/mqdefault.jpg)](https://www.youtube.com/watch?v=6o9qGittnbY)
 
+### Imitation Learning for Robot Control
+[![](https://img.youtube.com/vi/55RNo9Uo3yE/mqdefault.jpg)](https://www.youtube.com/watch?v=55RNo9Uo3yE)
+
+### Imitation Learning for Drone Flight
+[![](https://img.youtube.com/vi/Wj_U96Eakbc/mqdefault.jpg)](https://www.youtube.com/watch?v=Wj_U96Eakbc)
 
 ### Animated Coordiante Network
 [![](https://img.youtube.com/vi/QoqCdUM9mOc/mqdefault.jpg)](https://www.youtube.com/watch?v=QoqCdUM9mOc)
