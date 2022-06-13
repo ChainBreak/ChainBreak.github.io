@@ -21,7 +21,12 @@
 [![](https://img.youtube.com/vi/6o9qGittnbY/mqdefault.jpg)](https://www.youtube.com/watch?v=6o9qGittnbY)
 
 ### Animated Coordiante Network
+[![](https://img.youtube.com/vi/QoqCdUM9mOc/mqdefault.jpg)](https://www.youtube.com/watch?v=QoqCdUM9mOc)
+[![](https://img.youtube.com/vi/WIIzn4jwqkM/mqdefault.jpg)](https://www.youtube.com/watch?v=WIIzn4jwqkM)
 [![](https://img.youtube.com/vi/ad2IakGra7Y/mqdefault.jpg)](https://www.youtube.com/watch?v=ad2IakGra7Y)
+[![](https://img.youtube.com/vi/GlN4tTZyJ48/mqdefault.jpg)](https://www.youtube.com/watch?v=GlN4tTZyJ48)
+
+[GitHub](https://github.com/ChainBreak/animated_coordinate_network)
 
 ### Dancing Detector
 [![](https://img.youtube.com/vi/R4nB-2Fu7w8/mqdefault.jpg)](https://www.youtube.com/watch?v=R4nB-2Fu7w8)
