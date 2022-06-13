@@ -9,6 +9,11 @@
 
 ## Projects
 
+### Normal Map Camera
+[![](https://img.youtube.com/vi/mHugJn8DDc0/hqdefault.jpg)](https://www.youtube.com/watch?v=mHugJn8DDc0)
+[![](https://img.youtube.com/vi/6Vc-kvayGio/hqdefault.jpg)](https://www.youtube.com/watch?v=6Vc-kvayGio)
+
+
 ### GovHack2019
 [![](https://img.youtube.com/vi/9dWrHqQp2VY/hqdefault.jpg)](https://www.youtube.com/watch?v=9dWrHqQp2VY)
 
