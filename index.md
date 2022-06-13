@@ -20,16 +20,19 @@
 [![](https://img.youtube.com/vi/R4nB-2Fu7w8/hqdefault.jpg)](https://www.youtube.com/watch?v=R4nB-2Fu7w8)
 
 ### Won the Amazon Robotics Challenge 2017
+#### Papers
+ - [Cartman: The low-cost Cartesian Manipulator that won the Amazon Robotics Challenge](https://arxiv.org/abs/1709.06283)
+ - [Semantic Segmentation from Limited Training Data](https://arxiv.org/abs/1709.07665)
+ - [Design of a Multi-Modal End-Effector and Grasping System: How Integrated Design helped win the Amazon Robotics Challenge](https://arxiv.org/abs/1710.01439)
+
 [![](https://img.youtube.com/vi/yXdzOuQDobk/hqdefault.jpg)](https://www.youtube.com/watch?v=yXdzOuQDobk)
 [![](https://img.youtube.com/vi/AljePt7Mh6U/hqdefault.jpg)](https://www.youtube.com/watch?v=AljePt7Mh6U)
+
+
+### NASA Robotics Challenge - Third Place
 #### Papers
-[Cartman: The low-cost Cartesian Manipulator that won the Amazon Robotics Challenge](https://arxiv.org/abs/1709.06283)
+ - [Autonomy and Perception for Space Mining](https://arxiv.org/abs/2109.12109)
 
-[Semantic Segmentation from Limited Training Data](https://arxiv.org/abs/1709.07665)
-
-[Design of a Multi-Modal End-Effector and Grasping System: How Integrated Design helped win the Amazon Robotics Challenge](https://arxiv.org/abs/1710.01439)
-
-
-### NASA Robotics Challenge - Came Third
+[![](https://img.youtube.com/vi/3vYtedQTVbw/hqdefault.jpg)](https://www.youtube.com/watch?v=3vYtedQTVbw)
 
 ### 
